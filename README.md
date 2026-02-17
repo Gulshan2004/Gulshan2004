@@ -15,7 +15,7 @@
 
 # 💫 About Me:
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&lines=Ayush+Kumar+Singh;Full+Stack+Java+Developer;React+%2B+Spring+Boot;DSA+Enthusiast;Tech+Society+%E2%80%94+Hashtag)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&duration=3000&color=00F700&lines=Gulshan+Kumar+;Full+Stack+Developer;React;DSA+Enthusiast;)](https://git.io/typing-svg)
 
 
 🔭 I’m currently working on<br><br>PayPal Clone Project – A secure payment gateway system built using Spring Boot, React.js, and Kafka, featuring microservice architecture and Dockerized deployment.<br><br>👯 I’m looking to collaborate on<br><br>Full Stack & DevOps Projects – Especially those involving Spring Boot, React.js, Docker, and Kubernetes for scalable production-level applications.<br><br>🤝 I’m looking for help with<br><br>AI + Java Integration Project – Integrating Python-based AI models with Java backend for intelligent and automated workflows.<br><br>🌱 I’m currently learning<br><br>Kubernetes, AWS, and CI/CD Pipelines to strengthen my DevOps engineering skills and automate end-to-end deployments.<br><br>💬 Ask me about<br><br>Java, Spring Boot, React.js, Docker, Microservices, and DevOps Tools.<br><br><br>⚡ Fun fact<br><br>I love automating everything. If it can be scripted, I’ll script it 😄
