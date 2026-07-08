@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Gulshan Kumar</h1>
 
 <p align="center">
-  <b>B.Tech Computer Science Engineering Student • Java Backend Developer in Progress</b>
+  <b>B.Tech Computer Science Engineering Student • Java Backend Development Learner </b>
 </p>
 
 <p align="center">
@@ -99,8 +99,9 @@ Java Backend Roadmap
 
 - ☕ Java Learning Repository
 - 📚 DSA in Java
-- 🏫 Student Management System
-- 👨‍💼 Employee Management System
+- Java Learning Repository
+- DSA in Java
+- More projects coming soon...
 - 🌱 Spring Boot Learning Repository
 
 ---
@@ -109,7 +110,7 @@ Java Backend Roadmap
 
 - Building strong Java fundamentals
 - Practicing Data Structures & Algorithms
-- Writing clean and maintainable code
+- Strengthening Java fundamentals through projects
 - Documenting my learning journey through GitHub
 
 ---
