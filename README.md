@@ -1,69 +1,170 @@
-# Hey, I'm Gulshan 👋
-
-I'm a Computer Science Engineering student who enjoys solving problems and building software.
-
-Right now, I'm focused on becoming a Java Backend Developer. I'm currently learning Core Java and Object-Oriented Programming while strengthening my fundamentals through Data Structures & Algorithms.
-
-I enjoy documenting my learning, building projects, and improving one step at a time.
-
----
-
-## 📚 What I'm Learning
-
-- ☕ Building a strong foundation in Core Java and Object-Oriented Programming
-- 📚 Solving Data Structures & Algorithms using Java
-- 💻 Writing clean, readable and maintainable code
-- 🚀 Preparing for Advanced Java, Spring Boot and Backend Development
-- 🌱 Learning by building projects rather than just completing courses
-
----
-
-## 🛠 Technologies I've Worked With
-
-**Languages**
-
-Java • C++ • Python • JavaScript
-
-**Web**
-
-HTML • CSS • JavaScript
-
-**Database**
-
-MySQL
-
-**Python Libraries**
-
-NumPy • Pandas • Matplotlib • Seaborn
-
-**Tools**
-
-Git • GitHub • VS Code
-
----
-
-## 🚀 Current Goal
-
-Become a Java Backend Developer capable of building scalable and reliable backend applications using Spring Boot.
-
----
-
-## 📊 GitHub Stats
+<h1 align="center">Hey 👋, I'm Gulshan Kumar</h1>
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Gulshan2004&show_icons=true&theme=github_dark&hide_border=true"/>
+  <b>Computer Science Engineering Student • Java Backend Developer in Progress</b>
+</p>
 
-<img height="165" src="https://streak-stats.demolab.com?user=Gulshan2004&theme=github-dark&hide_border=true"/>
+<p align="center">
+  Passionate about building software, learning new technologies and documenting my journey.
+</p>
+
+<p align="center">
+  <a href="mailto:gulshankumar1923070@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/gulshankumar2k3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
+  </a>
 </p>
 
 ---
 
-## 📫 Connect
+# 👨‍💻 About Me
 
-📧 gulshankumar1923070@gmail.com
+```java
+public class Gulshan {
 
-💼 www.linkedin.com/in/gulshankumar2k3
+    String role = "Java Backend Developer (Learning)";
+    String education = "B.Tech Computer Science Engineering";
+    String currentFocus = "Core Java & Object-Oriented Programming";
+
+    String[] interests = {
+        "Backend Development",
+        "Problem Solving",
+        "Software Engineering",
+        "Building Real World Projects"
+    };
+
+}
+```
+
+I enjoy solving problems, writing clean code, and building projects that help me become a better developer every day.
+
+Currently, I'm focused on strengthening my Java fundamentals before moving towards Spring Boot and modern backend development.
 
 ---
 
-> *"Learning. Building. Improving. One commit at a time."*
+# 📚 Current Learning Journey
+
+```text
+✅ Core Java
+
+🔄 Object-Oriented Programming
+
+📖 Data Structures & Algorithms (Java)
+
+────────────────────────────
+
+⏳ Advanced Java
+
+⏳ JDBC
+
+⏳ Collections Framework
+
+⏳ Multithreading
+
+⏳ Java 8
+
+⏳ Spring Boot
+
+⏳ Spring Security
+
+⏳ Spring AI
+```
+
+---
+
+# 🛠 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css"/>
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql"/>
+</p>
+
+### Python Libraries
+
+<p>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square"/>
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+# 🚀 What I'm Building
+
+Currently documenting everything I learn through GitHub repositories.
+
+Upcoming repositories include:
+
+- ☕ Java Learning
+- 📚 DSA in Java
+- 👨‍💼 Employee Management System
+- 🏫 Student Management System
+- 🌐 Spring Boot REST APIs
+- 💰 Expense Tracker
+
+---
+
+# 🎯 2026 Goals
+
+- Master Core Java
+- Complete Advanced Java
+- Learn Spring Boot
+- Build 10+ Java Projects
+- Learn Spring Security
+- Learn Spring AI
+- Contribute to Open Source
+
+---
+
+# 📈 Coding Activity
+
+> This section will automatically display my coding activity after integrating **WakaTime**.
+
+<!--START_SECTION:waka-->
+Coming Soon...
+<!--END_SECTION:waka-->
+
+---
+
+# 📫 Connect With Me
+
+<p>
+
+<a href="mailto:gulshankumar1923070@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gulshankumar2k3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<i>"Learning. Building. Improving. One Commit at a Time."</i>
+
+</p>
