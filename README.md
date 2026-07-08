@@ -56,7 +56,7 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 ### ⚙️ Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
