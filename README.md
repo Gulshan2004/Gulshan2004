@@ -1,37 +1,38 @@
 <h1 align="center">Hey 👋, I'm Gulshan Kumar</h1>
 
 <p align="center">
-  <b>Computer Science Engineering Student • Java Backend Developer in Progress</b>
+  <b>B.Tech Computer Science Engineering Student • Java Backend Developer in Progress</b>
 </p>
 
 <p align="center">
-  Building my journey into backend development through consistent learning, clean code and real-world projects.
+Building software. Learning in public. Improving one project at a time.
 </p>
 
 <p align="center">
-  <a href="mailto:gulshankumar1923070@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/gulshankumar2k3">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white">
-  </a>
+<a href="mailto:gulshankumar1923070@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gulshankumar2k3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+</a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+# About Me
 
 I'm currently pursuing a **B.Tech in Computer Science Engineering**.
 
-I'm passionate about software development and currently focused on building a strong foundation in **Core Java**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.
+I'm passionate about software development and currently building a strong foundation in **Java** through **Core Java**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.
 
-My goal is to become a **Java Backend Developer**, building scalable and reliable applications using **Spring Boot** and modern backend technologies.
+My goal is to become a **Java Backend Developer** by building scalable backend applications using **Spring Boot** and modern Java technologies.
 
-I believe in learning by building projects, writing clean code, and improving every single day.
+I believe in learning by building real-world projects, writing clean code, and staying consistent.
 
 ---
 
-# 📚 Current Journey
+# 📖 Learning Journey
 
 ```text
 Java Backend Roadmap
@@ -42,7 +43,7 @@ Java Backend Roadmap
 
 📚 Data Structures & Algorithms
 
-────────────────────────────
+──────────────────────────────
 
 ⏳ Advanced Java
 
@@ -52,7 +53,7 @@ Java Backend Roadmap
 
 ⏳ Multithreading
 
-⏳ Java 8 (Streams & Lambda)
+⏳ Java 8
 
 ⏳ Spring Boot
 
@@ -68,13 +69,13 @@ Java Backend Roadmap
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css"/>
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://skillicons.dev/icons?i=mysql"/>
 </p>
 
 ### Python Libraries
@@ -89,55 +90,39 @@ Java Backend Roadmap
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
 
-# 🚀 What I'm Building
-
-I'm documenting my learning journey by building projects and sharing them on GitHub.
-
-### Upcoming Projects
+# 🚀 Currently Building
 
 - ☕ Java Learning Repository
 - 📚 DSA in Java
 - 🏫 Student Management System
 - 👨‍💼 Employee Management System
-- 🌐 Spring Boot REST APIs
-- 💰 Expense Tracker
+- 🌱 Spring Boot Learning Repository
 
 ---
 
-# 📊 Weekly Coding Activity
+# 🎯 Current Focus
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+- Building strong Java fundamentals
+- Practicing Data Structures & Algorithms
+- Writing clean and maintainable code
+- Documenting my learning journey through GitHub
 
 ---
 
-# 📈 GitHub Activity
+# 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshan2004&theme=github-dark&hide_border=true" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshan2004&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
-
-- ✅ Master Core Java
-- 🔄 Complete Object-Oriented Programming
-- ⏳ Learn Advanced Java
-- ⏳ Build Java Projects
-- ⏳ Learn Spring Boot
-- ⏳ Learn Spring Security
-- ⏳ Learn Spring AI
-- ⏳ Contribute to Open Source
-
----
-
-# 📫 Let's Connect
+# 📫 Connect With Me
 
 <p>
 <a href="mailto:gulshankumar1923070@gmail.com">
@@ -152,7 +137,5 @@ I'm documenting my learning journey by building projects and sharing them on Git
 ---
 
 <p align="center">
-
-<i>"Learning. Building. Improving. One Commit at a Time."</i>
-
+<i>Learning. Building. Improving. One Commit at a Time.</i>
 </p>
