@@ -1,18 +1,27 @@
 <h1 align="center">Hi 👋, I'm Gulshan Kumar</h1>
 
 <h3 align="center">
-Java Backend Developer | Spring Boot Learner | Building Scalable Applications
+B.Tech CSE Student | Learning Java Backend Development | Building Projects & Growing Every Day
 </h3>
+
+<p align="center">
+  <a href="mailto:gulshankumar1923070@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/gulshankumar2k3">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
 - 🎓 B.Tech Computer Science Engineering Student
-- ☕ Currently learning **Java, Spring Boot, Spring Security & Spring AI**
-- 🚀 Building backend projects to strengthen my development skills
-- 📚 Solving Data Structures & Algorithms in Java
-- 🎯 Goal: Become a Java Backend Developer
+- ☕ Currently learning **Core Java** & **Object-Oriented Programming (OOP)**
+- 📚 Solving **Data Structures & Algorithms** in Java
+- 🚀 Building projects and documenting my learning journey
+- 🎯 Aspiring Java Backend Developer passionate about writing clean and maintainable code
 
 ---
 
@@ -21,18 +30,8 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 ### 💻 Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
 </p>
-
----
-
-### 🌐 Web Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
-</p>
-
----
 
 ### 🗄️ Database
 
@@ -40,9 +39,7 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
   <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
----
-
-### 📊 Data Analysis & Machine Learning
+### 📊 Data Analysis
 
 <p>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -50,8 +47,6 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
 </p>
-
----
 
 ### ⚙️ Tools
 
@@ -61,59 +56,78 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 
 ---
 
-## 📌 Current Focus
+## 🎯 Current Focus
 
-✔ Core Java
+- ☕ Mastering Core Java
+- 🧩 Understanding Object-Oriented Programming
+- 📚 Solving Data Structures & Algorithms in Java
+- 💻 Building Java Projects
+- 🌱 Developing strong programming fundamentals
 
-✔ Data Structures & Algorithms
+---
 
-✔ Spring Boot
+## 🗺️ Learning Roadmap
 
-✔ REST APIs
-
-✔ Spring Security
-
-✔ Spring AI
+| Status | Topic |
+|:------:|-------|
+| ✅ | Core Java |
+| 🔄 | Object-Oriented Programming (OOP) |
+| ⏳ | Advanced Java |
+| ⏳ | JDBC |
+| ⏳ | Collections Framework |
+| ⏳ | Multithreading |
+| ⏳ | Java 8 (Streams & Lambda Expressions) |
+| ⏳ | Spring Boot |
+| ⏳ | Spring Security |
+| ⏳ | Spring AI |
 
 ---
 
 ## 📂 Featured Projects
 
-🚧 Projects coming soon...
+🚧 I'm currently building projects as part of my Java Backend Development journey.
 
-- Java Learning Repository
-- Spring Boot CRUD API
-- Employee Management System
-- AI Powered Backend using Spring AI
+Upcoming repositories:
+
+- ☕ Java Learning Repository
+- 📚 DSA in Java
+- 🏫 Student Management System
+- 👨‍💼 Employee Management System
+- 🌐 Spring Boot REST APIs
+- 🤖 AI-powered Backend Applications (Spring AI)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Gulshan2004&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=Gulshan2004&theme=tokyonight&hide_border=true" height="170"/>
+</p>
 
-![](https://github-readme-stats.vercel.app/api?username=Gulshan2004&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://streak-stats.demolab.com?user=Gulshan2004&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan2004&layout=compact&theme=tokyonight&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan2004&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
 ## 🌱 Currently Learning
 
 ### ✅ Completed
+
 - Core Java Fundamentals
 
 ### 🔄 In Progress
+
 - Object-Oriented Programming (OOP)
 
-### 📌 Next Milestones
+### 📌 Coming Next
+
 - Advanced Java
 - JDBC
 - Collections Framework
 - Multithreading
-- Java 8 (Streams & Lambda)
+- Java 8 Features
 - Spring Boot
 - Spring Security
 - Spring AI
@@ -122,10 +136,20 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 
 ## 📫 Connect With Me
 
-📧 Email: **gulshankumar1923070@gmail.com**
+<p align="left">
 
-💼 LinkedIn: https://www.linkedin.com/in/gulshankumar2k3
+<a href="mailto:gulshankumar1923070@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/gulshankumar2k3">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
-⭐ "Consistency beats intensity. Every commit is progress."
+<p align="center">
+Learning • Building • Improving • One Commit at a Time 🚀
+</p>
