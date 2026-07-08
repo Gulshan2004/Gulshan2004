@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building software, learning new technologies and documenting my journey.
+  Building my journey into backend development through consistent learning, clean code and real-world projects.
 </p>
 
 <p align="center">
@@ -21,37 +21,26 @@
 
 # 👨‍💻 About Me
 
-```java
-public class Gulshan {
+I'm currently pursuing a **B.Tech in Computer Science Engineering**.
 
-    String role = "Java Backend Developer (Learning)";
-    String education = "B.Tech Computer Science Engineering";
-    String currentFocus = "Core Java & Object-Oriented Programming";
+I'm passionate about software development and currently focused on building a strong foundation in **Core Java**, **Object-Oriented Programming**, and **Data Structures & Algorithms**.
 
-    String[] interests = {
-        "Backend Development",
-        "Problem Solving",
-        "Software Engineering",
-        "Building Real World Projects"
-    };
+My goal is to become a **Java Backend Developer**, building scalable and reliable applications using **Spring Boot** and modern backend technologies.
 
-}
-```
-
-I enjoy solving problems, writing clean code, and building projects that help me become a better developer every day.
-
-Currently, I'm focused on strengthening my Java fundamentals before moving towards Spring Boot and modern backend development.
+I believe in learning by building projects, writing clean code, and improving every single day.
 
 ---
 
-# 📚 Current Learning Journey
+# 📚 Current Journey
 
 ```text
+Java Backend Roadmap
+
 ✅ Core Java
 
 🔄 Object-Oriented Programming
 
-📖 Data Structures & Algorithms (Java)
+📚 Data Structures & Algorithms
 
 ────────────────────────────
 
@@ -63,7 +52,7 @@ Currently, I'm focused on strengthening my Java fundamentals before moving towar
 
 ⏳ Multithreading
 
-⏳ Java 8
+⏳ Java 8 (Streams & Lambda)
 
 ⏳ Spring Boot
 
@@ -79,88 +68,78 @@ Currently, I'm focused on strengthening my Java fundamentals before moving towar
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css"/>
+<img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql"/>
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### Python Libraries
 
 <p>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas"/>
-
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
-
 <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=flat-square"/>
-
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
 # 🚀 What I'm Building
 
-Currently documenting everything I learn through GitHub repositories.
+I'm documenting my learning journey by building projects and sharing them on GitHub.
 
-Upcoming repositories include:
+### Upcoming Projects
 
-- ☕ Java Learning
+- ☕ Java Learning Repository
 - 📚 DSA in Java
-- 👨‍💼 Employee Management System
 - 🏫 Student Management System
+- 👨‍💼 Employee Management System
 - 🌐 Spring Boot REST APIs
 - 💰 Expense Tracker
 
 ---
 
-# 🎯 2026 Goals
-
-- Master Core Java
-- Complete Advanced Java
-- Learn Spring Boot
-- Build 10+ Java Projects
-- Learn Spring Security
-- Learn Spring AI
-- Contribute to Open Source
-
----
-
-# 📈 Coding Activity
-
-> This section will automatically display my coding activity after integrating **WakaTime**.
-
-## 📊 Weekly Coding Activity
+# 📊 Weekly Coding Activity
 
 <!--START_SECTION:waka-->
-
-```txt
-From: 30 June 2026 - To: 07 July 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ---
 
-# 📫 Connect With Me
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gulshan2004&theme=github-dark&hide_border=true" width="95%">
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Core Java
+- 🔄 Complete Object-Oriented Programming
+- ⏳ Learn Advanced Java
+- ⏳ Build Java Projects
+- ⏳ Learn Spring Boot
+- ⏳ Learn Spring Security
+- ⏳ Learn Spring AI
+- ⏳ Contribute to Open Source
+
+---
+
+# 📫 Let's Connect
 
 <p>
-
 <a href="mailto:gulshankumar1923070@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -168,7 +147,6 @@ No activity tracked
 <a href="https://www.linkedin.com/in/gulshankumar2k3">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
