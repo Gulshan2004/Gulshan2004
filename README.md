@@ -85,25 +85,21 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 
 ## 🌱 Currently Learning
 
-```text
-Core Java
-███████████████████░ 100%
+### ✅ Completed
+- Core Java Fundamentals
 
-OOP
-███████████████████░ 100%
+### 🔄 In Progress
+- Object-Oriented Programming (OOP)
 
-Collections Framework
-█████████████░░░░░░░ 70%
-
-Spring Boot
-███████░░░░░░░░░░░░░ 35%
-
-Spring Security
-██░░░░░░░░░░░░░░░░░░ 10%
-
-Spring AI
-░░░░░░░░░░░░░░░░░░░░ 0%
-```
+### 📌 Next Milestones
+- Advanced Java
+- JDBC
+- Collections Framework
+- Multithreading
+- Java 8 (Streams & Lambda)
+- Spring Boot
+- Spring Security
+- Spring AI
 
 ---
 
