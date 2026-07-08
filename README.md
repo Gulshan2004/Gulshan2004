@@ -16,33 +16,48 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 
 ---
 
-## 🚀 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### 💻 Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
-### Backend
+### 🌐 Web Development
 
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
 
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+---
 
-### Database
+### 🗄️ Database
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-### Tools
+---
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### 📊 Data Analysis & Machine Learning
 
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+<p>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge"/>
+</p>
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea)
+### ⚙️ Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,idea,postman" />
+</p>
 
 ---
 
