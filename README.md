@@ -90,11 +90,13 @@ Java Backend Developer | Spring Boot Learner | Building Scalable Applications
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Gulshan2004&show_icons=true&theme=tokyonight)
+## 📊 GitHub Stats
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gulshan2004&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Gulshan2004&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan2004&layout=compact&theme=tokyonight)
+![](https://streak-stats.demolab.com?user=Gulshan2004&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gulshan2004&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
