@@ -141,8 +141,9 @@ Upcoming repositories include:
 
 > This section will automatically display my coding activity after integrating **WakaTime**.
 
+## 📊 Weekly Coding Activity
+
 <!--START_SECTION:waka-->
-Coming Soon...
 <!--END_SECTION:waka-->
 
 ---
