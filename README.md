@@ -18,7 +18,6 @@ Building software. Learning in public. Improving one project at a time.
 </a>
 </p>
 
-<p align="center">![Profile views](https://komarev.com/ghpvc/?username=Gulshan2004)</p>
 
 ---
 
