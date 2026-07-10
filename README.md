@@ -13,7 +13,7 @@ Building software. Learning in public. Improving one project at a time.
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
   
-![Profile views](https://komarev.com/ghpvc/?username=YOUR_USERNAME)   
+![Profile views](https://komarev.com/ghpvc/?username=Gulshan2004)   
 
 <a href="https://www.linkedin.com/in/gulshankumar2k3">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
