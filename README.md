@@ -46,7 +46,7 @@ Java Backend Roadmap
 
 ──────────────────────────────
 
-⏳ Advanced Java
+✅ Advanced Java
 
 ⏳ JDBC
 
