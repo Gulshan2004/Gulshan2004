@@ -42,7 +42,7 @@ Java Backend Roadmap
 
 🔄 Object-Oriented Programming
 
-📚 Data Structures & Algorithms
+📚 Data Structures & Algorithms 
 
 ──────────────────────────────
 
