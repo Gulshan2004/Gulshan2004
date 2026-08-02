@@ -48,13 +48,13 @@ Java Backend Roadmap
 
 ✅ Advanced Java
 
+✅ Maven
+
+✅ Multithreading
+
+✅ Collections Framework
+
 ⏳ JDBC
-
-⏳ Collections Framework
-
-⏳ Multithreading
-
-⏳ Java 8
 
 ⏳ Spring Boot
 
