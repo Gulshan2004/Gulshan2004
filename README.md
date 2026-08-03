@@ -54,7 +54,7 @@ Java Backend Roadmap
 
 ✅ Collections Framework
 
-⏳ JDBC
+✅ JDBC
 
 ⏳ Spring Boot
 
