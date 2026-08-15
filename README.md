@@ -56,7 +56,7 @@ Java Backend Roadmap
 
 ✅ JDBC
 
-⏳ Hibernate
+✅ Hibernate
 
 ⏳ Spring Boot
 
