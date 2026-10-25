@@ -58,6 +58,12 @@ Java Backend Roadmap
 
 ✅ Hibernate
 
+✅ Spring JDBC
+
+✅ Spring Boot Web
+
+✅ Web MVC without Spring Boot
+
 ⏳ Spring Boot
 
 ⏳ Spring Security
